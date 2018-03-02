@@ -1,0 +1,20 @@
+C:\Users\Sam\source\repos\GlitchyApp-demo\GlitchyApp-demo\GlitchyApp-demo\bin\Debug\GlitchyApp-demo.exe.config
+C:\Users\Sam\source\repos\GlitchyApp-demo\GlitchyApp-demo\GlitchyApp-demo\bin\Debug\GlitchyApp-demo.exe
+C:\Users\Sam\source\repos\GlitchyApp-demo\GlitchyApp-demo\GlitchyApp-demo\bin\Debug\GlitchyApp-demo.pdb
+C:\Users\Sam\source\repos\GlitchyApp-demo\GlitchyApp-demo\GlitchyApp-demo\obj\Debug\GlitchyApp-demo.csprojResolveAssemblyReference.cache
+C:\Users\Sam\source\repos\GlitchyApp-demo\GlitchyApp-demo\GlitchyApp-demo\obj\Debug\GlitchyApp_demo.Properties.Resources.resources
+C:\Users\Sam\source\repos\GlitchyApp-demo\GlitchyApp-demo\GlitchyApp-demo\obj\Debug\GlitchyApp-demo.csproj.GenerateResource.Cache
+C:\Users\Sam\source\repos\GlitchyApp-demo\GlitchyApp-demo\GlitchyApp-demo\obj\Debug\GlitchyApp-demo.csproj.CoreCompileInputs.cache
+C:\Users\Sam\source\repos\GlitchyApp-demo\GlitchyApp-demo\GlitchyApp-demo\obj\Debug\GlitchyApp-demo.exe
+C:\Users\Sam\source\repos\GlitchyApp-demo\GlitchyApp-demo\GlitchyApp-demo\obj\Debug\GlitchyApp-demo.pdb
+C:\Users\Sam\source\repos\GlitchyApp-demo\GlitchyApp-demo\GlitchyApp-demo\obj\Debug\GlitchyApp_demo.Calculator.resources
+C:\Users\Sam\Documents\CompSoc\25 - Software Testing\GlitchyApp-demo\GlitchyApp-demo\GlitchyApp-demo\GlitchyApp-demo\bin\Debug\GlitchyApp-demo.exe.config
+C:\Users\Sam\Documents\CompSoc\25 - Software Testing\GlitchyApp-demo\GlitchyApp-demo\GlitchyApp-demo\GlitchyApp-demo\bin\Debug\GlitchyApp-demo.exe
+C:\Users\Sam\Documents\CompSoc\25 - Software Testing\GlitchyApp-demo\GlitchyApp-demo\GlitchyApp-demo\GlitchyApp-demo\bin\Debug\GlitchyApp-demo.pdb
+C:\Users\Sam\Documents\CompSoc\25 - Software Testing\GlitchyApp-demo\GlitchyApp-demo\GlitchyApp-demo\GlitchyApp-demo\obj\Debug\GlitchyApp-demo.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Documents\CompSoc\25 - Software Testing\GlitchyApp-demo\GlitchyApp-demo\GlitchyApp-demo\GlitchyApp-demo\obj\Debug\GlitchyApp_demo.Calculator.resources
+C:\Users\Sam\Documents\CompSoc\25 - Software Testing\GlitchyApp-demo\GlitchyApp-demo\GlitchyApp-demo\GlitchyApp-demo\obj\Debug\GlitchyApp_demo.Properties.Resources.resources
+C:\Users\Sam\Documents\CompSoc\25 - Software Testing\GlitchyApp-demo\GlitchyApp-demo\GlitchyApp-demo\GlitchyApp-demo\obj\Debug\GlitchyApp-demo.csproj.GenerateResource.Cache
+C:\Users\Sam\Documents\CompSoc\25 - Software Testing\GlitchyApp-demo\GlitchyApp-demo\GlitchyApp-demo\GlitchyApp-demo\obj\Debug\GlitchyApp-demo.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\CompSoc\25 - Software Testing\GlitchyApp-demo\GlitchyApp-demo\GlitchyApp-demo\GlitchyApp-demo\obj\Debug\GlitchyApp-demo.exe
+C:\Users\Sam\Documents\CompSoc\25 - Software Testing\GlitchyApp-demo\GlitchyApp-demo\GlitchyApp-demo\GlitchyApp-demo\obj\Debug\GlitchyApp-demo.pdb
